@@ -1,6 +1,6 @@
-📦 Electronica – E-Commerce Web Application
+#📦 Electronica – E-Commerce Web Application
 
-Live Website:
+##Live Website:
 👉 https://electronica.nexuswebai.com/
 
 Electronica is a fully functional E-Commerce website built with PHP, MySQL, HTML, CSS & JavaScript, featuring secure OTP-based login, product listings, cart management, order flow, and an admin-ready backend structure.
